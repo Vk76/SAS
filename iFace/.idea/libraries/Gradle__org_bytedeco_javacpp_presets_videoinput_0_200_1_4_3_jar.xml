@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.bytedeco.javacpp-presets:videoinput:0.200-1.4.3@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/videoinput/0.200-1.4.3/b7a736c04b56fa485d728269e83daf62531e77d3/videoinput-0.200-1.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/videoinput/0.200-1.4.3/4c4e7d33f1b028f97a30109db5e83d03bd1d383f/videoinput-0.200-1.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

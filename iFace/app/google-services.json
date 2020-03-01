@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059955462542",
+    "firebase_url": "https://code-devil.firebaseio.com",
+    "project_id": "code-devil",
+    "storage_bucket": "code-devil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059955462542:android:ba51e75936055586a114df",
+        "android_client_info": {
+          "package_name": "com.bytecoders.iface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059955462542-cv517t2knt9a6p18ce49md2pvksqaien.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSsyzxr6fqjGrcl-lSX_a2lfO7jeeslb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059955462542-cv517t2knt9a6p18ce49md2pvksqaien.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
